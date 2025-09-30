@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from SRI LAKNKA</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=udeshofficial&label=udeshOfficial's%20profile%20views&color=0e4db4&style=flat" alt="udeshofficial" /> </p>
-<p align="cenetr">----------------------------------------------------------------</p>
+<p align="cenetr">:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::</p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udeshofficial" alt="udeshofficial" /></a> </p>
 
 - 🔭 I’m currently learning **geomarty project**
