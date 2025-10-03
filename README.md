@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Udesh Fernando</h1>
-<h3 align="center">A passionate frontend developer from SRI LAKNKA</h3>
+<h3 align="center">A passionate frontend developer from SRI LANKA</h3>
 <p align="center">::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=udeshofficial&label=udeshOfficial's%20profile%20views&color=0e4db4&style=flat" alt="udeshofficial" /> </p>
 
